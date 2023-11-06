@@ -50,9 +50,6 @@ My most recent work is located within pinned repositories (this is the project I
 <a href="https://ant.design/">
   <img src="https://img.shields.io/badge/ant-design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt='AntDesign'>
 </a>
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-191c22?style=flat-square&logo=react" alt='React'>
-</a>
 <a href="https://www.json.org/json-en.html">
   <img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoCOlor=white" alt='JSON'>
 </a>
