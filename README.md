@@ -17,7 +17,7 @@ I am a self-taught programmer aspiring to be employed as a Junior (Python) Backe
 What do I enjoy about programming? The challenge of building a working structure, the opportunity to improve it and the satisfaction of watching it work.
 
 #### 🔭 Current projects:
-My most recent work is located within pinned repositories (this is the project I am currently working on). My current tasks within them are:
+My most recent work is located within pinned repositories (Spaced Repetition Web Application - this is the project I am currently working on). My current tasks within it are:
 * Adding RWD to the front-end application
 * Redesigning some of the API endpoints
 * Construction of a panel for authoring (adding, deleting, editing) cards and resources
